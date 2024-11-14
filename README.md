@@ -25,6 +25,7 @@ This is my **first project** written in **C++**, where I challenged myself to bu
 
 - **C++**: The core used to build the game.
 - **SFML**: Used for rendering the graphics of the board and pawns.
+- **Blender**: Used to create the boards and the pawns.
 
 ## How to Run the Game
 
